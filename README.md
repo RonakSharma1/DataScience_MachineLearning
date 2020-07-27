@@ -1,5 +1,5 @@
 # General:
-This is my final year project, which comprised of performing data analysis, designing machine learning models and applying optimisation. A [GUI](https://drive.google.com/file/d/1DwhilSpGJ7m-QFqzESTuALE71QPhHa10/view?usp=sharing) was then developed to incoorporate all these techniques into a single standalone application. Each subfolder provides a detailed description of each of the earlier mentioned techniques.
+This is my final year project, which comprised of performing data analysis, designing machine learning models and applying optimisation. A [GUI](https://drive.google.com/file/d/1m0hZkJXE3TtX05IuilRyTRLyBysoKkus/view?usp=sharing) was then developed to incoorporate all these techniques into a single standalone application. Each subfolder provides a detailed description of each of the earlier mentioned techniques.
 
 # Aim
 Design a systems engineering framework to predict the optimal surface metrology parameters such as force and vibration, required to achieve the desired surface roughness of a manufactured product
