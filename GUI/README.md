@@ -7,7 +7,7 @@ Generate Pareto-Optimal solutions for surface metrology parameters  (i.e. force,
 3. Follow the procedure below
 
 # Procedure
-Note: A [video demonstration](https://drive.google.com/file/d/1DwhilSpGJ7m-QFqzESTuALE71QPhHa10/view?usp=sharing) has been provided as well 
+Note: A [video demonstration](https://drive.google.com/file/d/1m0hZkJXE3TtX05IuilRyTRLyBysoKkus/view?usp=sharing) has been provided as well 
 1. Load Training Data: Press this if you have new data to train the seven ANFIS models. For starters, you can use the mock data i.e. 'InputData.mat'(Nine Featured Dataset)
 2. Train Model: Press this to train the models with the new dataset
 3. Sa Target Value: Enter the target surface roughness value, you desire to achieve. Range is limited between (0.25 and 0.61). Choose any value between this range
