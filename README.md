@@ -17,3 +17,8 @@ For each executable file, it can be just downloaded from Git and then opened in 
 4. NeuralNetwork: Contains the scripts that perform 'feature extraction' and 'model training'. The scripts can be cloned and ran using the mock data provided
 
 5. Optimisation: Contains the scripts required to optimise the models created in '4'. These model are optimised to determine the optimal values for the Nine features required to achieve the user defined surface roughness value. Refer to this folder for better understanding
+
+
+# Achievements
+1. Paper was presented and published in 12th International Conference on Fuzzy Computation Theory and Applications [(FCTA 2020)](https://www.insticc.org/node/TechnicalProgram/ijcci/2020/presentationDetails/101256). Also available on [SciTePress](https://www.scitepress.org/PublicationsDetail.aspx?ID=YWkIeLKOoDY=&t=1)
+2. Paper was published in the [British Conference of Undergraduate Research 2020](https://eu.eventscloud.com/ehome/bcur2020/presentations/)
